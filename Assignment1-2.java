@@ -1,4 +1,4 @@
-public class Assignment1-2
+public class Assignment12
 {
     public static void printAddress(String name, String address, String cityStateZip, String phone, String area)
     {
