@@ -1,4 +1,4 @@
-public class LetsaGo21
+public class Assignment12
 {
     public static void printAddress(String name, String address, String cityStateZip, String phone, String area)
     {
